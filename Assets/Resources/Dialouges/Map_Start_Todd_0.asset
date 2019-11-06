@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa75bea936a0064598438acc1160d88, type: 3}
+  m_Name: Map_Start_Todd_0
+  m_EditorClassIdentifier: 
+  name: "\uD1A0\uB4DC"
+  sentences:
+  - "\u2026"
+  - "\u2026 \uB4E4\uB9AC\uB294\uAC00?"
+  - "\uD1A0\uB4DC \uB300\uC704\uC77C\uC138."
+  - "\uC798\uB3C4 \uB6F0\uC5B4\uB0B4\uB9AC\uB354\uAD70!"
+  - "\uAC01\uC124\uD558\uACE0 \uC784\uBB34\uC5D0 \uB300\uD574 \uC124\uBA85\uD558\uACA0\uB124."
+  - "\uADF8 \uB3D9\uAD74 \uAE4A\uC219\uD55C \uACF3\uC5D0 \uAE30\uACC4 \uB188\uB4E4\uC744
+    \uC870\uC885\uD558\uB294 \uBB34\uC5B8\uAC00\uAC00 \uC788\uB2E4."
+  - "\uADF8\uB188\uC744 \uC7A1\uC544 \uC871\uCE58\uB3C4\uB85D \uD574."
+  - "\uB3C4\uC911\uC5D0 \uB9CC\uB098\uB294 \uB188\uB4E4\uB3C4 \uC804\uBD80."
+  - "\uBCC4\uAC70 \uC5C6\uC9C0 \uC54A\uB098."
+  - "\uB2E4\uC2DC \uBC84\uB824\uC9C4 \uD1B5\uC2E0\uAE30\uB97C \uB9CC\uB098\uBA74 \uC811\uC18D\uD558\uAC8C."
+  - "\uB0A8\uC740 \uC804\uB825\uC73C\uB85C \uBCF4\uD638\uB9C9\uC744 \uCDA9\uC804\uD560
+    \uC218 \uC788\uC744 \uAC70\uC57C."
+  - "\uADF8\uB7FC \uC9C4\uD589\uC0AC\uD56D\uC740 \uADF8\uB54C \uBCF4\uACE0 \uBC1B\uB3C4\uB85D
+    \uD558\uC9C0."
+  - "(\uBB34\uC804 \uB05D.)"

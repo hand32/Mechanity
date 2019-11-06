@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa75bea936a0064598438acc1160d88, type: 3}
+  m_Name: Map_Start_ToddInHeli_1
+  m_EditorClassIdentifier: 
+  name: "\uD1A0\uB4DC"
+  sentences:
+  - "\uB108\uBB34 \uC720\uB09C \uB5A8\uC9C0 \uB9D0\uAC8C!"
+  - "\uC900\uBE44\uAC00 \uC644\uB8CC\uB418\uBA74 \uC624\uB978\uCABD\uC73C\uB85C \uCB49
+    \uAC00\uC11C \uAC15\uD558\uD558\uB3C4\uB85D!"

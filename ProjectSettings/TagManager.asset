@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Platform
+  - SceneManager
+  - UI
+  - Weapon
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - Monster
+  - Item
+  - Closeview
+  - Distantview
+  - platform decoration
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 85
+    uniqueID: 2731191303
+    locked: 0
+  - name: 75
+    uniqueID: 230377267
+    locked: 0
+  - name: 60
+    uniqueID: 2553700851
+    locked: 0
+  - name: 45
+    uniqueID: 1354959255
+    locked: 0
+  - name: 30
+    uniqueID: 2022345837
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Monster
+    uniqueID: 2526602419
+    locked: 0
+  - name: Player
+    uniqueID: 1397158201
+    locked: 0
+  - name: Item
+    uniqueID: 1411489027
+    locked: 0
+  - name: Bullet
+    uniqueID: 1962080217
+    locked: 0
+  - name: front
+    uniqueID: 233974023
+    locked: 0
+  - name: Particle
+    uniqueID: 3460531683
+    locked: 0
+  - name: -3
+    uniqueID: 3349583539
+    locked: 0
+  - name: -5
+    uniqueID: 3265691865
+    locked: 0
+  - name: -8
+    uniqueID: 212840011
+    locked: 0
+  - name: Inventory
+    uniqueID: 1228671041
+    locked: 0

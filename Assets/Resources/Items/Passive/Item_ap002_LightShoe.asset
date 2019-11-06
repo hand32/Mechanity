@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4246e1252b3bd46b08f607c18d6882, type: 3}
+  m_Name: Item_ap002_LightShoe
+  m_EditorClassIdentifier: 
+  name: "\uAC00\uBCBC\uC6B4 \uC6B4\uB3D9\uD654"
+  sprite: {fileID: 21300000, guid: 051918817796d4a00afd6374b870d541, type: 3}
+  details: "\uC0C8 \uC2E0\uC744 \uC2E0\uACE0 \uB6F0\uC5B4\uBCF4\uC790 \uD314\uC9DD\n
+    - \uC810\uD504 1\uD68C \uCD94\uAC00"

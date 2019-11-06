@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa75bea936a0064598438acc1160d88, type: 3}
+  m_Name: Map_Start_ToddInHeli_0
+  m_EditorClassIdentifier: 
+  name: "\uD1A0\uB4DC"
+  sentences:
+  - "\uD558\uD558\uD558! \uC548\uB155\uD558\uC2E0\uAC00! \uB09C \uD1A0\uB4DC \uC0C1\uC0AC\uB77C\uB124!"
+  - "\uC778\uB958\uB97C \uC704\uD55C \uB9C9\uC911\uD55C \uCCAB \uC784\uBB34\uC758
+    \uB208\uC55E\uC5D0 \uC788\uB294 \uC18C\uAC10\uC774 \uC5B4\uB5A4\uAC00!"
+  - "\uBB50 \uB098\uC5D0\uAC90 \uC790\uB124\uC640 \uAC19\uC740 \uC2E0\uCC38\uB4E4\uC774
+    \uD55C \uB450\uBC88\uB3C4 \uC544\uB2C8\uC9C0\uB9CC \uB9D0\uC774\uC57C!"
+  - "\uD558! \uD558! \uD558! \uADF8\uB807\uB2E4\uACE0 \uAC81\uBA39\uC9C0\uB294 \uB9D0\uACE0."
+  - "\uD6C8\uB828\uD588\uB358 \uB300\uB85C\uB9CC \uD558\uBA74 \uBCC4\uC77C \uC5C6\uC744
+    \uAC70\uC57C!"
+  - "\uB0B4\uB824\uAC00\uBA74 \uD1B5\uC2E0\uAE30\uB97C \uCC3E\uAC8C! \uBCF4\uAE09\uD488\uB4E4\uB3C4
+    \uC606\uC5D0 \uC788\uC744 \uD14C\uB2C8 \uC798 \uCC59\uAE30\uACE0!"
+  - "\uADF8\uB7FC \uC900\uBE44\uAC00 \uC644\uB8CC\uB418\uBA74 \uC624\uB978\uCABD\uC73C\uB85C
+    \uCB49 \uAC00\uC11C \uAC15\uD558\uD558\uB3C4\uB85D \uD558\uAC8C!"

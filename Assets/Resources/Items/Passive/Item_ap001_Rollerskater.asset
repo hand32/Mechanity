@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4246e1252b3bd46b08f607c18d6882, type: 3}
+  m_Name: Item_ap001_Rollerskater
+  m_EditorClassIdentifier: 
+  name: "\uB864\uB7EC\uC2A4\uCF00\uC774\uD130"
+  sprite: {fileID: 21300000, guid: acea596d6116c4612a397fcf9f83ee10, type: 3}
+  details: "\uBC14\uD034\uB2EC\uB9B0 \uC2E0\uBC1C\uC2E0\uACE0 \uB2EC\uB9AC\uB2E4\uAC00
+    \uB118\uC5B4\uC9C4\uC801, \uB2E4\uB4E4 \uC788\uC73C\uC2E0\uAC00\uC694?\n - \uC774\uB3D9\uC18D\uB3C4
+    \uC99D\uAC00"

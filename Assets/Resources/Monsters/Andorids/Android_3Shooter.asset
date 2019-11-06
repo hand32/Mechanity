@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc32849f174a3046b94820627215376, type: 3}
+  m_Name: Android_3Shooter
+  m_EditorClassIdentifier: 
+  name: Android_3Shooter
+  findRadius: 8
+  moveSpeed: 0
+  damage_Charge: 0
+  basicSmashRadius: 1.5
+  damage_basicSmash: 10
+  basicSmashPlayerCheckTime: 0.3
+  basicSmashStartTime: 0.2
+  damage_Bullet: 15
+  bulletSpeed: 5
+  reloadTime: 4
+  shootingDelay: 0.15
+  BulletPrefab: {fileID: 1125500732856748, guid: 7a979cecedddea0448534ee32be01044,
+    type: 2}
